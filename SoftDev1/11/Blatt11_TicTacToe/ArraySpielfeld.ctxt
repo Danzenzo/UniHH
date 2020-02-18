@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArraySpielfeld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArraySpielfeld\r\n
+comment1.params=position
+comment1.target=int\ gibBesitzer(int)
+comment1.text=\r\n\ @see\ Spielfeld.gibBesitzer\r\n
+comment2.params=position\ spieler
+comment2.target=void\ besetzePosition(int,\ int)
+comment2.text=\r\n\ Besetzt\ die\ angegebene\ Position\ auf\ dem\ Spielfeld\ fuer\ einen\ Spieler.\r\n\ \r\n\ @param\ position\ 0..8\r\n\ @param\ spieler\ 1\ (Spieler\ 1),\ 2\ (Spieler\ 2)\r\n
+comment3.params=
+comment3.target=boolean\ istVoll()
+comment3.text=\r\n\ Gibt\ an,\ ob\ das\ Spielfeld\ an\ allen\ _positionen\ belegt\ ist.\r\n
+numComments=4
