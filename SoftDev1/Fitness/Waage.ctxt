@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=k\u00F6rperGewicht
+comment0.target=Waage(int)
+comment0.text=\r\n\ Erzeuge\ eine\ Waage.\r\n\ @param\ k\u00F6rperGewicht\ Das\ K\u00F6rpergewicht\ in\ Gramm.\r\n
+comment1.params=
+comment1.target=int\ gibTrend()
+comment1.text=\ \ public\ void\ registriere\ (int\ neuesGewicht)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if\ (_letztesGewicht\ >\ neuesGewicht)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ _trend\ \=-1;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if\ (_letztesGewicht\ <\ neuesGewicht)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ _trend\=1;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ _trend\=0;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if\ (neuesGewicht\ >\ maximalGewicht)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ maximalGewicht\ \=\ neuesGewicht;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if\ (neuesGewicht\ <\ minimalGewicht)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ minimalGewicht\ \=\ neuesGewicht;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ _letztesGewicht\ \=\ neuesGewicht;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ /**\r\n\ Gebe\ den\ Trend\ des\ Gewichts\ an.\r\n
+comment2.params=
+comment2.target=int\ gibMinimalGewicht()
+comment2.text=\r\n\ gebe\ das\ aktuelle\ Minimalgewicht\ an.\r\n
+comment3.params=
+comment3.target=int\ gibMaximalGewicht()
+comment3.text=\r\n\ Gebe\ das\ aktuelle\ Maximalgewicht\ an.\r\n
+comment4.params=neuesGewicht
+comment4.target=void\ registriere(int)
+numComments=5

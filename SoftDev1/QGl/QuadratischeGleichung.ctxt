@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=QuadratischeGleichung(int,\ int,\ int)
+comment0.text=\r\n\ L\u00F6st\ eine\ quadraticshe\ Gleichung.\r\n\ @param\ a\ Der\ erste\ Koeffizient\r\n\ @param\ b\ Der\ zweite\ Koeffizient\r\n\ @param\ c\ Der\ dritte\ Koeffizient\r\n
+comment1.params=
+comment1.target=double\ ersteNullstelle()
+comment1.text=\r\n\ L\u00F6st\ die\ erste\ Nullstelle.\r\n\ @return\ Die\ erste\ Nullstelle.\r\n
+comment2.params=
+comment2.target=double\ zweiteNullstelle()
+comment2.text=\r\n\ L\u00F6st\ die\ zweite\ Nullstelle.\r\n\ @return\ Die\ zweite\ Nullstelle.\r\n
+comment3.params=
+comment3.target=int\ anzahlNullstellen()
+comment3.text=\r\n\ Gibt\ die\ Anzahl\ der\ Nullstellen\ zur\u00FCck.\r\n\ @return\ Die\ Anzahl\ der\ Nullstellen.\r\n
+numComments=4
