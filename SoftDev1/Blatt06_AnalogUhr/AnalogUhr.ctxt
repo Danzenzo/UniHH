@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ zeichne()
+comment1.params=
+comment1.target=void\ zeichneZeiger()
+comment10.params=
+comment10.target=void\ startTimer()
+comment11.params=e
+comment11.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=strich\ breite\ farbe
+comment2.target=void\ zeichneZeiger(DrehbarerStrich,\ float,\ java.awt.Color)
+comment3.params=
+comment3.target=void\ zeichneZiffernblatt()
+comment4.params=startWinkel
+comment4.target=void\ zeichneAbschnitt(double)
+comment5.params=startWinkel
+comment5.target=void\ zeichneSekAbschnitt(double)
+comment6.params=
+comment6.target=AnalogUhr()
+comment6.text=\r\n\ Initialisiert\ die\ analoge\ Uhr\ auf\ Mitternacht\ und\ startet\ die\ Animation.\r\n
+comment7.params=
+comment7.target=void\ configurePanel()
+comment8.params=graphics
+comment8.target=void\ paint(java.awt.Graphics)
+comment9.params=
+comment9.target=void\ configureFrame()
+numComments=12

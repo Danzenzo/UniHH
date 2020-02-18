@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=quellKonto\ zielKonto\ betrag
+comment0.target=void\ ueberweisen(Konto,\ Konto,\ int)
+comment0.text=\r\n\ \u00DCberweist\ einen\ Betrag\ von\ einem\ Konto\ zu\ einem\ anderen.\r\n\ @param\ quellKonto\ Das\ Quellkonto\ (ist\ ein\ Objekt)\r\n\ @param\ zielKonto\ Das\ Zielkonto\ (ist\ ein\ Objekt)\r\n\ @param\ betrag\ Der\ Betrag\r\n
+numComments=1
