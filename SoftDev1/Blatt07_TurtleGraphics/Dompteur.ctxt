@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ start()
+comment0.text=\r\n\ 'SE1'\ auf\ die\ Zeichenflaeche\ zeichnen.\r\n
+comment1.params=ecken\ farbe\ x\ y\ laenge
+comment1.target=void\ zeichneNEck2(int,\ java.lang.String,\ double,\ double,\ int)
+numComments=2

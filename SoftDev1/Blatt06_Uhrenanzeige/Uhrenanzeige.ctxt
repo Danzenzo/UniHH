@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=h\ min
+comment0.target=Uhrenanzeige(int,\ int)
+comment0.text=\r\n\ initialisiert\ die\ Uhrzeit\ f\u00FCr\ Uhr1\ und\ Uhr2\ in\ Minuten\ und\ Stunden\r\n\ @param\ h\ Stunden\r\n\ @param\ min\ Minuten\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibUhrzeitAlsString()
+comment1.text=\r\n\ Gibt\ die\ Uhrzeit\ als\ String\ aus.\r\n\ @return\ Die\ Uhrzeit.\r\n
+comment2.params=h\ min
+comment2.target=void\ setzeUhrzeit(int,\ int)
+comment2.text=\r\n\ Setze\ die\ Uhrzeit\ auf\ einen\ Wert.\r\n\ @param\ h\ Die\ Stunden.\r\n\ @param\ min\ Die\ Minuten.\r\n
+comment3.params=
+comment3.target=void\ taktsignalGeben()
+comment3.text=\r\n\ Erh\u00F6ht\ die\ Minuten\ um\ 1.\r\n\r\n
+numComments=4
