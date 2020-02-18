@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=ich\ raten
+comment0.target=Ratemaschiene(int,\ int)
+comment1.params=zahl
+comment1.target=java.lang.String\ pruefeDieseZahl(int)
+comment1.text=\r\n\ Rate\ eine\ ganze\ Zahl.\r\n\ @param\ Zahl\ in\ Ziffern.\r\n\ \r\n
+numComments=2

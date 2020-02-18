@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=Kontonummer
+comment0.target=Konto(int)
+comment0.text=\r\n\ Erzeuge\ ein\ Konto\ mit\ Kontonummer\ und\ einem\ Startguthaben\ von\ 10\ Euro.\r\n\ @param\ Kontonummer\ die\ Kontonummer\ in\ Ziffern.\r\n
+comment1.params=betrag
+comment1.target=void\ zahleEin(int)
+comment1.text=\r\n\ Zahle\ einen\ Betrag\ auf\ das\ Konto\ ein.\r\n\ @param\ betrag\ der\ einzuzahlende\ Betrag\ in\ Euro.\r\n
+comment2.params=betrag
+comment2.target=void\ hebeAb(int)
+comment2.text=\r\n\ Hebe\ einen\ Betrag\ vom\ Konto\ ab.\r\n\ @param\ betrag\ der\ abzuhebende\ Betrag\ in\ Euro.\r\n
+comment3.params=
+comment3.target=int\ gibSaldo()
+comment3.text=\r\n\ Der\ Kontostand\ des\ Kontos\ wird\ angezeigt.\r\n\ @return\ Saldo\ des\ Kontos\ in\ Euro.\r\n
+comment4.params=
+comment4.target=int\ gibKontonummer()
+comment4.text=\r\n\ Die\ Kontonummer\ des\ Kontos\ wird\ angezeigt.\r\n\ @return\ Kontonummer\ des\ Kontos\ in\ Ziffern.\r\n\ \r\n
+numComments=5
